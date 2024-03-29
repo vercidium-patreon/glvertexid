@@ -1,5 +1,7 @@
 This repository is Part 2 of Vercidium's [Free Friday](https://www.patreon.com/posts/101295613) series.
 
+You can get access to the full Vercidium Engine source code by joining [my Patreon](https://www.patreon.com/vercidium) or sponsoring me on [GitHub sponsors](https://github.com/vercidium-patreon).
+
 ---
 
 This is a standlone renderer that uses `gl_VertexID` to render a heightmap with minimal data.
