@@ -11,3 +11,12 @@ Key files:
 - `HeightmapShader.cs` applies the gl_VertexID magic
 
 An explanation of this gl_VertexID magic can be found [here](https://www.youtube.com/watch?v=5zlfJW2VGLM).
+
+---
+
+Controls:
+- WASD to move around
+- QE to move up/down
+- Space to view the wireframe
+
+![image](https://github.com/vercidium-patreon/glvertexid/assets/12014138/322f4411-fa2b-4bf0-a740-dac7635b35f5)
