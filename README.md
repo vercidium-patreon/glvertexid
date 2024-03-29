@@ -1,4 +1,4 @@
-This repository is Part 2 of Vercidium's [Free Friday](https://www.patreon.com/posts/100857028) series.
+This repository is Part 2 of Vercidium's [Free Friday](https://www.patreon.com/posts/101295613) series.
 
 ---
 
